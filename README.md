@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently a B.Tech Computer Science 3rd year student
-
+Motivated BTech CSE student specializing in Full Stack Development and DevOps with a strong foundation in programming and software engineering. Skilled in problem-solving, teamwork, and building scalable, efficient applications using modern technologies.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjanpriyanshu21@gmail.com) 
